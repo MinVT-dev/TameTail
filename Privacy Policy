@@ -1,1 +1,62 @@
-Privacy Policy are WIP... please await till further notice
+Last Updated: 06 March 2026
+Owner: Striasmin [Min_VT]
+
+1. Information We Collect
+TameTail only collects the minimum data required for gameplay and functionality:
+
+Automatically collected:
+- Discord user ID
+- Discord username
+- Server ID (for command context)
+- Command usage logs
+- Error logs
+
+Gameplay data stored:
+- Player profile
+- Inventory
+- Tails and stats
+- Base upgrades
+- XP and level progress
+
+Webhook logs:
+-Errors
+- Admin alerts
+- System events (e.g., player creation)
+No sensitive personal information is collected.
+
+2. How We Use Your Data
+Data is used to:
+- Save your in‑game progress
+- Improve gameplay features
+- Debug errors
+- Prevent abuse
+- Monitor bot health and performance
+We never sell or share your data with third parties.
+
+3. Data Storage & Security
+Data is stored in a private MongoDB database. Reasonable security measures are used, but no system is 100% secure. By using the Bot, you acknowledge this risk.
+
+4. Data Retention
+Your data is kept as long as the Bot is active. Data may be deleted if:
+- You request deletion
+- You violate the TOS
+- The Bot undergoes a reset or major update
+
+5. Data Deletion
+You may request deletion of your data by contacting the owner. Deletion is permanent and cannot be undone.
+
+6. Third‑Party Services
+The Bot interacts with:
+- Discord API
+- Webhooks (Discord endpoints)
+- MongoDB database
+These services have their own privacy policies.
+
+7. Children’s Privacy
+The Bot does not knowingly collect data from children under the age of digital consent. If you believe data was collected from a minor, contact the owner for removal.
+
+8. Changes to This Policy
+This Privacy Policy may be updated at any time. Continued use of the Bot means you accept the updated policy.
+
+9. Contact
+For privacy concerns, contact the Bot owner via Discord: Striasmin
